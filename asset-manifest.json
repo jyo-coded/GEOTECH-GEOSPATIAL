@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GEOTECH-GEOSPATIAL/static/css/main.56f012e5.css",
-    "main.js": "/GEOTECH-GEOSPATIAL/static/js/main.090d2eaa.js",
+    "main.js": "/GEOTECH-GEOSPATIAL/static/js/main.f086a20f.js",
     "static/js/453.e0205915.chunk.js": "/GEOTECH-GEOSPATIAL/static/js/453.e0205915.chunk.js",
     "index.html": "/GEOTECH-GEOSPATIAL/index.html",
     "main.56f012e5.css.map": "/GEOTECH-GEOSPATIAL/static/css/main.56f012e5.css.map",
-    "main.090d2eaa.js.map": "/GEOTECH-GEOSPATIAL/static/js/main.090d2eaa.js.map",
+    "main.f086a20f.js.map": "/GEOTECH-GEOSPATIAL/static/js/main.f086a20f.js.map",
     "453.e0205915.chunk.js.map": "/GEOTECH-GEOSPATIAL/static/js/453.e0205915.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56f012e5.css",
-    "static/js/main.090d2eaa.js"
+    "static/js/main.f086a20f.js"
   ]
 }
